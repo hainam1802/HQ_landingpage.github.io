@@ -1,1 +1,1 @@
-# HQ_landingpage.github.io
+# HQ_landingpage
